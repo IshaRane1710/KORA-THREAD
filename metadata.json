@@ -1,0 +1,6 @@
+{
+  "name": "Kora Threads — Artisanal Handloom & Pure Cotton",
+  "description": "Pune-based direct-to-consumer handloom clothing brand founded in 2021. Sourcing 100% pure cotton directly from weaver cooperatives in Maharashtra & Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
